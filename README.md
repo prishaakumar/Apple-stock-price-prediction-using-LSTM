@@ -24,6 +24,15 @@ The goal of this project is to:
 - 📈 **LSTM (Long Short-Term Memory)** for time series forecasting
 
 ---
+## 📂 Project Structure
+
+```
+APL-stock-prediction/
+├── AAPL_stock_price.ipynb   # Jupyter Notebook containing all code and visualizations
+├── README.md                # Project overview and instructions
+├── requirements.txt         # Python dependencies
+```
+
 
 ## ✅ requirements.txt
 numpy
